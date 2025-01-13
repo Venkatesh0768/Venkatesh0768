@@ -6,15 +6,15 @@
 <img align ="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **Food Calorie Estimation**
+- 🔭 I’m currently working on **Minor Project**
 
-- 🌱 I’m currently learning **Android Studio , kotlin , Java , DSA**
+- 🌱 I’m currently learning **Flutter , GenAI, Java , DSA**
 
-- 👯 I’m looking to collaborate on **Execrise Pose Correction**
+- 👯 I’m looking to collaborate on **Flutter Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Venkatesh0768?tab=repositories](https://github.com/Venkatesh0768?tab=repositories)
 
-- 💬 Ask me about **Andriod , Kotlin , java**
+- 💬 Ask me about **Andriod , Kotlin , java , Flutter , dart**
 
 - 📫 How to reach me **rapoluvenky7@gmail.com**
 
