@@ -1,5 +1,3 @@
-(https://github.com/Venkatesh0768)
-
 <h1 align="center">Hi 👋, I'm Venkatesh Rapolu</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
@@ -14,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Venkatesh0768?tab=repositories](https://github.com/Venkatesh0768?tab=repositories)
 
-- 💬 Ask me about **Andriod , Kotlin , java , Flutter , dart**
+- 💬 Ask me about ** java , Spring Boot , Andriod , Kotlin , Flutter, Dart**
 
 - 📫 How to reach me **rapoluvenky7@gmail.com**
 
