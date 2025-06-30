@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on **Minor Project**
 
-- 🌱 I’m currently learning **spring boot , GenAI, Java , DSA**
+- 🌱 I’m currently learning **Spring Boot, GenAI, Java, DSA**
 
-- 👯 I’m looking to collaborate on **Flutter Developer**
+- 👯 I’m looking to collaborate on **Java Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Venkatesh0768?tab=repositories](https://github.com/Venkatesh0768?tab=repositories)
 
-- 💬 Ask me about ** java , Spring Boot , Andriod , Kotlin , Flutter, Dart**
+- 💬 Ask me about ** Java, Spring Boot, Android, Kotlin, Flutter, Dart**
 
 - 📫 How to reach me **rapoluvenky7@gmail.com**
 
