@@ -25,7 +25,7 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=java,kotlin,cpp,python,js,ts" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=spring,nodejs" /> |
 | **Database** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" /> |
 | **Tools & OS** | <img src="https://skillicons.dev/icons?i=git,postman,linux,docker,maven" /> |
@@ -35,10 +35,6 @@
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venkatesh0768&show_icons=true&locale=en&theme=minimal" alt="venkatesh0768" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=venkatesh0768&show_icons=true&locale=en&layout=compact&theme=minimal" alt="venkatesh0768" height="150" />
-</div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkatesh0768&theme=minimal&hide_border=true" alt="venkatesh0768" />
 </div>
