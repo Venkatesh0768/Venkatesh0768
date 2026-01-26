@@ -29,7 +29,7 @@ public class Developer {
 
 ## 🚀 Featured Project
 
-### [🚗 Uber Clone - Distributed Ride-Sharing System](https://github.com/Venkatesh0768?tab=repositories&q=UberProject)
+### [🚗 Uber Clone - Distributed Ride-Sharing System](https://github.com/Venkatesh0768?tab=repositories&q=Uber)
 A production-grade microservices architecture implementing real-time ride matching, payment processing, and location tracking using Spring Boot, Redis, and PostgreSQL.
 
 **Tech Stack:** Spring Boot • PostgreSQL • Redis • Docker • REST APIs
